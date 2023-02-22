@@ -20,7 +20,7 @@ const theme: Theme = {
   colors: {
     background: `#3f3f3f`,
     documentation: `#ddddcc`,
-    highlight: `#716f6f`,
+    highlight: `#4a4a4a`,
     code: `#639db1`,
     key: `#dfc47d`,
     string: `#cc9393`,
